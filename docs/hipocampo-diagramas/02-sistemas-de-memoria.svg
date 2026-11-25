@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-label="De la mente al código: los sistemas de memoria">
+<title>De la mente al código: los sistemas de memoria</title>
+<desc>Cada estructura del cerebro tiene un componente con la misma función en Hipocampo.</desc>
+<defs><marker id="m8a8984" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a8984"/></marker><marker id="m6250d6" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#6250d6"/></marker><marker id="m2a78d6" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2a78d6"/></marker><marker id="m1baf7a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1baf7a"/></marker><marker id="meb6834" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#eb6834"/></marker><marker id="me34948" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e34948"/></marker><marker id="me87ba4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e87ba4"/></marker></defs>
+<rect width="1200" height="760" fill="#fcfcfb"/>
+<text x="40" y="48" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0b0b0b">De la mente al código: los sistemas de memoria</text>
+<text x="40" y="74" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#52514e">Cada estructura del cerebro tiene un componente con la misma función en Hipocampo.</text>
+<text x="40.0" y="110.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#7a7974" text-anchor="start">EN LA MENTE</text>
+<text x="470.0" y="110.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#7a7974" text-anchor="start">EN HIPOCAMPO</text>
+<rect x="40" y="124" width="340" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="124" width="340" height="74" rx="10" fill="#8a8984" fill-opacity="0.09"/>
+<rect x="40" y="124" width="340" height="74" rx="10" fill="none" stroke="#8a8984" stroke-width="1.5"/>
+<text x="54.0" y="157.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Registro sensorial</text>
+<text x="54.0" y="175.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">retiene percepciones crudas por segundos</text>
+<path d="M380.0 161.0 L460.0 161.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<rect x="470" y="124" width="690" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="470" y="124" width="690" height="74" rx="10" fill="#8a8984" fill-opacity="0.09"/>
+<rect x="470" y="124" width="690" height="74" rx="10" fill="none" stroke="#8a8984" stroke-width="1.5"/>
+<text x="490.0" y="155.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Buffer de sesión</text>
+<text x="490.0" y="176.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">salidas de herramientas, diffs y comandos; se purga</text>
+<rect x="990" y="146" width="150" height="30" rx="6" fill="#fcfcfb" stroke="#8a8984" stroke-width="1"/>
+<text x="1065.0" y="166.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="500" fill="#0b0b0b" text-anchor="middle">sensory/</text>
+<rect x="40" y="210" width="340" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="210" width="340" height="74" rx="10" fill="#6250d6" fill-opacity="0.09"/>
+<rect x="40" y="210" width="340" height="74" rx="10" fill="none" stroke="#6250d6" stroke-width="1.5"/>
+<text x="54.0" y="243.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Memoria de trabajo</text>
+<text x="54.0" y="261.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">pocos elementos activos (≈4 chunks)</text>
+<path d="M380.0 247.0 L460.0 247.0" fill="none" stroke="#6250d6" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m6250d6)"/>
+<rect x="470" y="210" width="690" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="470" y="210" width="690" height="74" rx="10" fill="#6250d6" fill-opacity="0.09"/>
+<rect x="470" y="210" width="690" height="74" rx="10" fill="none" stroke="#6250d6" stroke-width="1.5"/>
+<text x="490.0" y="241.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Ventana del agente</text>
+<text x="490.0" y="262.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">presupuesto fijo de tokens en capas</text>
+<rect x="990" y="232" width="150" height="30" rx="6" fill="#fcfcfb" stroke="#6250d6" stroke-width="1"/>
+<text x="1065.0" y="252.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="500" fill="#0b0b0b" text-anchor="middle">L0 · L1 · L2</text>
+<rect x="40" y="296" width="340" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="296" width="340" height="74" rx="10" fill="#2a78d6" fill-opacity="0.09"/>
+<rect x="40" y="296" width="340" height="74" rx="10" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="54.0" y="329.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Hipocampo</text>
+<text x="54.0" y="347.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">graba episodios rápido, como índice</text>
+<path d="M380.0 333.0 L460.0 333.0" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m2a78d6)"/>
+<rect x="470" y="296" width="690" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="470" y="296" width="690" height="74" rx="10" fill="#2a78d6" fill-opacity="0.09"/>
+<rect x="470" y="296" width="690" height="74" rx="10" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="490.0" y="327.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Memoria episódica</text>
+<text x="490.0" y="348.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">sesiones y eventos con fecha, append-only</text>
+<rect x="990" y="318" width="150" height="30" rx="6" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1"/>
+<text x="1065.0" y="338.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="500" fill="#0b0b0b" text-anchor="middle">episodic/</text>
+<rect x="40" y="382" width="340" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="382" width="340" height="74" rx="10" fill="#1baf7a" fill-opacity="0.09"/>
+<rect x="40" y="382" width="340" height="74" rx="10" fill="none" stroke="#1baf7a" stroke-width="1.5"/>
+<text x="54.0" y="415.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Neocorteza</text>
+<text x="54.0" y="433.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">conocimiento estable, aprendido lento</text>
+<path d="M380.0 419.0 L460.0 419.0" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m1baf7a)"/>
+<rect x="470" y="382" width="690" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="470" y="382" width="690" height="74" rx="10" fill="#1baf7a" fill-opacity="0.09"/>
+<rect x="470" y="382" width="690" height="74" rx="10" fill="none" stroke="#1baf7a" stroke-width="1.5"/>
+<text x="490.0" y="413.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Memoria semántica</text>
+<text x="490.0" y="434.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">hechos, decisiones vigentes, convenciones</text>
+<rect x="990" y="404" width="150" height="30" rx="6" fill="#fcfcfb" stroke="#1baf7a" stroke-width="1"/>
+<text x="1065.0" y="424.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="500" fill="#0b0b0b" text-anchor="middle">semantic/</text>
+<rect x="40" y="468" width="340" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="468" width="340" height="74" rx="10" fill="#eb6834" fill-opacity="0.09"/>
+<rect x="40" y="468" width="340" height="74" rx="10" fill="none" stroke="#eb6834" stroke-width="1.5"/>
+<text x="54.0" y="501.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Ganglios basales</text>
+<text x="54.0" y="519.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">habilidades y saber hacer</text>
+<path d="M380.0 505.0 L460.0 505.0" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#meb6834)"/>
+<rect x="470" y="468" width="690" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="470" y="468" width="690" height="74" rx="10" fill="#eb6834" fill-opacity="0.09"/>
+<rect x="470" y="468" width="690" height="74" rx="10" fill="none" stroke="#eb6834" stroke-width="1.5"/>
+<text x="490.0" y="499.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Memoria procedural</text>
+<text x="490.0" y="520.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">procedimientos y scripts que funcionaron 3+ veces</text>
+<rect x="990" y="490" width="150" height="30" rx="6" fill="#fcfcfb" stroke="#eb6834" stroke-width="1"/>
+<text x="1065.0" y="510.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="500" fill="#0b0b0b" text-anchor="middle">procedural/</text>
+<rect x="40" y="554" width="340" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="554" width="340" height="74" rx="10" fill="#e34948" fill-opacity="0.09"/>
+<rect x="40" y="554" width="340" height="74" rx="10" fill="none" stroke="#e34948" stroke-width="1.5"/>
+<text x="54.0" y="587.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Amígdala</text>
+<text x="54.0" y="605.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">marca lo importante</text>
+<path d="M380.0 591.0 L460.0 591.0" fill="none" stroke="#e34948" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#me34948)"/>
+<rect x="470" y="554" width="690" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="470" y="554" width="690" height="74" rx="10" fill="#e34948" fill-opacity="0.09"/>
+<rect x="470" y="554" width="690" height="74" rx="10" fill="none" stroke="#e34948" stroke-width="1.5"/>
+<text x="490.0" y="585.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Saliencia</text>
+<text x="490.0" y="606.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">costo del evento: tiempo, reintentos, severidad</text>
+<rect x="990" y="576" width="150" height="30" rx="6" fill="#fcfcfb" stroke="#e34948" stroke-width="1"/>
+<text x="1065.0" y="596.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="500" fill="#0b0b0b" text-anchor="middle">campo salience</text>
+<rect x="40" y="640" width="340" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="640" width="340" height="74" rx="10" fill="#e87ba4" fill-opacity="0.09"/>
+<rect x="40" y="640" width="340" height="74" rx="10" fill="none" stroke="#e87ba4" stroke-width="1.5"/>
+<text x="54.0" y="673.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Memoria prospectiva</text>
+<text x="54.0" y="691.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">recordar hacer algo después</text>
+<path d="M380.0 677.0 L460.0 677.0" fill="none" stroke="#e87ba4" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#me87ba4)"/>
+<rect x="470" y="640" width="690" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="470" y="640" width="690" height="74" rx="10" fill="#e87ba4" fill-opacity="0.09"/>
+<rect x="470" y="640" width="690" height="74" rx="10" fill="none" stroke="#e87ba4" stroke-width="1.5"/>
+<text x="490.0" y="671.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Intenciones y tareas</text>
+<text x="490.0" y="692.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">siguiente paso, disparadores, leases</text>
+<rect x="990" y="662" width="150" height="30" rx="6" fill="#fcfcfb" stroke="#e87ba4" stroke-width="1"/>
+<text x="1065.0" y="682.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="500" fill="#0b0b0b" text-anchor="middle">prospective/</text>
+<text x="40.0" y="744.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#7a7974" text-anchor="start">H.M., sin hipocampo, no formaba recuerdos nuevos pero sí aprendía habilidades: por eso episódica y procedural son sistemas separados.</text>
+<text x="1160" y="742" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#7a7974" text-anchor="end">Hipocampo · spec v1.0</text>
+</svg>

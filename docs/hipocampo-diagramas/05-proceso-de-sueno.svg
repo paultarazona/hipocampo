@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 790" width="1200" height="790" role="img" aria-label="Proceso de sueño: consolidación offline">
+<title>Proceso de sueño: consolidación offline</title>
+<desc>hipo sleep convierte episodios en conocimiento, repeticiones en procedimientos, y poda lo que sobra.</desc>
+<defs><marker id="m8a8984" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a8984"/></marker></defs>
+<rect width="1200" height="790" fill="#fcfcfb"/>
+<text x="40" y="48" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0b0b0b">Proceso de sueño: consolidación offline</text>
+<text x="40" y="74" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#52514e">hipo sleep convierte episodios en conocimiento, repeticiones en procedimientos, y poda lo que sobra.</text>
+<rect x="60" y="100" width="560" height="46" rx="10" fill="#fcfcfb"/>
+<rect x="60" y="100" width="560" height="46" rx="10" fill="#6250d6" fill-opacity="0.09"/>
+<rect x="60" y="100" width="560" height="46" rx="10" fill="none" stroke="#6250d6" stroke-width="1.5"/>
+<text x="340.0" y="128.5" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#52514e" text-anchor="middle">Disparo: cada 3 sesiones o cada 24 h, lo que llegue primero  ·  hipo sleep</text>
+<rect x="60" y="180" width="320" height="112" rx="10" fill="#fcfcfb"/>
+<rect x="60" y="180" width="320" height="112" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<rect x="191.42" y="208.4" width="57.160000000000004" height="17" rx="8.5" fill="#8a8984" fill-opacity="0.16"/>
+<text x="220.0" y="220.7" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#52514e" text-anchor="middle">sin LLM</text>
+<text x="220.0" y="244.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">1 · Purga sensorial</text>
+<text x="220.0" y="262.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">borra sensory/ de sesiones cerradas</text>
+<rect x="440" y="180" width="320" height="112" rx="10" fill="#fcfcfb"/>
+<rect x="440" y="180" width="320" height="112" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<rect x="571.42" y="199.9" width="57.160000000000004" height="17" rx="8.5" fill="#8a8984" fill-opacity="0.16"/>
+<text x="600.0" y="212.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#52514e" text-anchor="middle">sin LLM</text>
+<text x="600.0" y="235.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">2 · Replay</text>
+<text x="600.0" y="253.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">episodios nuevos + los antiguos</text>
+<text x="600.0" y="270.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">que un recuerdo nuevo enlaza</text>
+<rect x="820" y="180" width="320" height="112" rx="10" fill="#fcfcfb"/>
+<rect x="820" y="180" width="320" height="112" rx="10" fill="#eb6834" fill-opacity="0.09"/>
+<rect x="820" y="180" width="320" height="112" rx="10" fill="none" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="919.08" y="199.9" width="121.84" height="17" rx="8.5" fill="#eb6834" fill-opacity="0.16"/>
+<text x="980.0" y="212.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#52514e" text-anchor="middle">LLM local (Ollama)</text>
+<text x="980.0" y="235.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">3 · Abstracción</text>
+<text x="980.0" y="253.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">3+ episodios de 2+ sesiones</text>
+<text x="980.0" y="270.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">→ regla semántica (proposed)</text>
+<rect x="820" y="340" width="320" height="112" rx="10" fill="#fcfcfb"/>
+<rect x="820" y="340" width="320" height="112" rx="10" fill="#eb6834" fill-opacity="0.09"/>
+<rect x="820" y="340" width="320" height="112" rx="10" fill="none" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="919.08" y="359.9" width="121.84" height="17" rx="8.5" fill="#eb6834" fill-opacity="0.16"/>
+<text x="980.0" y="372.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#52514e" text-anchor="middle">LLM local (Ollama)</text>
+<text x="980.0" y="395.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">4 · Procedimentalización</text>
+<text x="980.0" y="413.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">solución con 3+ éxitos</text>
+<text x="980.0" y="430.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">→ procedimiento o script</text>
+<rect x="440" y="340" width="320" height="112" rx="10" fill="#fcfcfb"/>
+<rect x="440" y="340" width="320" height="112" rx="10" fill="#eb6834" fill-opacity="0.09"/>
+<rect x="440" y="340" width="320" height="112" rx="10" fill="none" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="539.08" y="359.9" width="121.84" height="17" rx="8.5" fill="#eb6834" fill-opacity="0.16"/>
+<text x="600.0" y="372.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#52514e" text-anchor="middle">LLM local (Ollama)</text>
+<text x="600.0" y="395.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">5 · Interferencia</text>
+<text x="600.0" y="413.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">recuerdos que se contradicen</text>
+<text x="600.0" y="430.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">→ superseded o suspect</text>
+<rect x="60" y="340" width="320" height="112" rx="10" fill="#fcfcfb"/>
+<rect x="60" y="340" width="320" height="112" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<rect x="191.42" y="359.9" width="57.160000000000004" height="17" rx="8.5" fill="#8a8984" fill-opacity="0.16"/>
+<text x="220.0" y="372.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#52514e" text-anchor="middle">sin LLM</text>
+<text x="220.0" y="395.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">6 · Homeostasis</text>
+<text x="220.0" y="413.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">recalcula B; saliencia −10% por ciclo</text>
+<text x="220.0" y="430.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">si lleva 30 días sin uso</text>
+<rect x="60" y="500" width="320" height="112" rx="10" fill="#fcfcfb"/>
+<rect x="60" y="500" width="320" height="112" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<rect x="191.42" y="519.9" width="57.160000000000004" height="17" rx="8.5" fill="#8a8984" fill-opacity="0.16"/>
+<text x="220.0" y="532.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#52514e" text-anchor="middle">sin LLM</text>
+<text x="220.0" y="555.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">7 · Poda</text>
+<text x="220.0" y="573.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">archiva A &lt; −1.0 con 60 días sin uso;</text>
+<text x="220.0" y="590.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">comprime episodios de 30+ días</text>
+<rect x="440" y="500" width="320" height="112" rx="10" fill="#fcfcfb"/>
+<rect x="440" y="500" width="320" height="112" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<rect x="571.42" y="519.9" width="57.160000000000004" height="17" rx="8.5" fill="#8a8984" fill-opacity="0.16"/>
+<text x="600.0" y="532.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#52514e" text-anchor="middle">sin LLM</text>
+<text x="600.0" y="555.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">8 · Proyecciones</text>
+<text x="600.0" y="573.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">regenera L0 y la sección</text>
+<text x="600.0" y="590.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">de AGENTS.md / CLAUDE.md</text>
+<rect x="820" y="500" width="320" height="112" rx="10" fill="#fcfcfb"/>
+<rect x="820" y="500" width="320" height="112" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<rect x="951.42" y="519.9" width="57.160000000000004" height="17" rx="8.5" fill="#8a8984" fill-opacity="0.16"/>
+<text x="980.0" y="532.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#52514e" text-anchor="middle">sin LLM</text>
+<text x="980.0" y="555.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">9 · Reporte</text>
+<text x="980.0" y="573.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">episodio agent: sleep</text>
+<text x="980.0" y="590.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">con lo que hizo el ciclo</text>
+<path d="M220.0 146.0 L220.0 180.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M380.0 236.0 L440.0 236.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M760.0 236.0 L820.0 236.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M980.0 292.0 L980.0 340.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M820.0 396.0 L760.0 396.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M440.0 396.0 L380.0 396.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M220.0 452.0 L220.0 500.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M380.0 556.0 L440.0 556.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M760.0 556.0 L820.0 556.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<rect x="440" y="664" width="320" height="70" rx="10" fill="#fcfcfb"/>
+<rect x="440" y="664" width="320" height="70" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="600.0" y="695.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Commit propio del almacén</text>
+<text x="600.0" y="712.4" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">memory: sleep cycle 2026-11-04</text>
+<rect x="820" y="664" width="320" height="70" rx="10" fill="#fcfcfb"/>
+<rect x="820" y="664" width="320" height="70" rx="10" fill="#e87ba4" fill-opacity="0.09"/>
+<rect x="820" y="664" width="320" height="70" rx="10" fill="none" stroke="#e87ba4" stroke-width="1.5"/>
+<text x="980.0" y="695.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Revisión humana</text>
+<text x="980.0" y="712.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">reglas proposed → hipo review</text>
+<path d="M980.0 612.0 L980.0 664.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M900.0 612.0 L900.0 640.0 L600.0 640.0 L600.0 664.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<rect x="60" y="664" width="320" height="70" rx="10" fill="#fcfcfb"/>
+<rect x="60" y="664" width="320" height="70" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="220.0" y="686.5" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Sin Ollama</text>
+<text x="220.0" y="703.7" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">3, 4 y 5 se encolan en</text>
+<text x="220.0" y="720.7" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.0" font-weight="400" fill="#52514e" text-anchor="middle">live/pending_sleep.jsonl</text>
+<rect x="60" y="756" width="14" height="14" rx="4" fill="#eb6834" fill-opacity="0.25"/>
+<rect x="60" y="756" width="14" height="14" rx="4" fill="none" stroke="#eb6834" stroke-width="1.5"/>
+<text x="80.0" y="767.5" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">usa el modelo local (presupuesto 20,000 tokens por ciclo)</text>
+<rect x="468.52000000000004" y="756" width="14" height="14" rx="4" fill="#c9c8c2" fill-opacity="0.25"/>
+<rect x="468.52000000000004" y="756" width="14" height="14" rx="4" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="488.5" y="767.5" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">cálculo determinista</text>
+<text x="1160" y="772" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#7a7974" text-anchor="end">Hipocampo · spec v1.0</text>
+</svg>

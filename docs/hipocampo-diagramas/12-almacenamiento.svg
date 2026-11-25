@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 720" width="1260" height="720" role="img" aria-label="Dónde vive la memoria: modo repo y modo home">
+<title>Dónde vive la memoria: modo repo y modo home</title>
+<desc>En ambos modos el almacén es un repositorio git pequeño, separado del código. Se elige en hipo init.</desc>
+<defs><marker id="m2a78d6" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2a78d6"/></marker><marker id="me87ba4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e87ba4"/></marker></defs>
+<rect width="1260" height="720" fill="#fcfcfb"/>
+<text x="40" y="48" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0b0b0b">Dónde vive la memoria: modo repo y modo home</text>
+<text x="40" y="74" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#52514e">En ambos modos el almacén es un repositorio git pequeño, separado del código. Se elige en hipo init.</text>
+<rect x="30" y="96" width="590" height="560" rx="14" fill="#f4f3f0"/>
+<rect x="30" y="96" width="590" height="560" rx="14" fill="#2a78d6" fill-opacity="0.05"/>
+<rect x="30" y="96" width="590" height="560" rx="14" fill="none" stroke="#2a78d6" stroke-width="1"/>
+<text x="48.0" y="122.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#52514e" text-anchor="start">HIPO INIT --STORE REPO</text>
+<rect x="640" y="96" width="590" height="560" rx="14" fill="#f4f3f0"/>
+<rect x="640" y="96" width="590" height="560" rx="14" fill="#e87ba4" fill-opacity="0.05"/>
+<rect x="640" y="96" width="590" height="560" rx="14" fill="none" stroke="#e87ba4" stroke-width="1"/>
+<text x="658.0" y="122.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#52514e" text-anchor="start">HIPO INIT --STORE HOME</text>
+<text x="60.0" y="150.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">mi-proyecto/</text>
+<text x="60.0" y="171.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">├── src/</text>
+<text x="60.0" y="192.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">├── .git/</text>
+<text x="60.0" y="213.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">│   ├── objects/  refs/  …</text>
+<rect x="52" y="219" width="330" height="21" rx="4" fill="#2a78d6" fill-opacity="0.14"/>
+<text x="60.0" y="234.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">│   └── hipocampo/</text>
+<rect x="52" y="240" width="330" height="21" rx="4" fill="#2a78d6" fill-opacity="0.14"/>
+<text x="60.0" y="255.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">│       ├── episodic/  semantic/  …</text>
+<rect x="52" y="261" width="330" height="21" rx="4" fill="#2a78d6" fill-opacity="0.14"/>
+<text x="60.0" y="276.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">│       ├── live/</text>
+<rect x="52" y="282" width="330" height="21" rx="4" fill="#2a78d6" fill-opacity="0.14"/>
+<text x="60.0" y="297.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">│       └── index.db</text>
+<text x="60.0" y="318.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">└── (ningún archivo nuevo en el árbol)</text>
+<text x="400.0" y="234.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="start">← almacén (git propio)</text>
+<text x="410.0" y="297.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="start">← ignorado por git</text>
+<rect x="60" y="370" width="250" height="64" rx="10" fill="#fcfcfb"/>
+<rect x="60" y="370" width="250" height="64" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="185.0" y="398.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">../wt-T12</text>
+<text x="185.0" y="415.2" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.0" font-weight="400" fill="#52514e" text-anchor="middle">rama hipo/T-12</text>
+<rect x="60" y="452" width="250" height="64" rx="10" fill="#fcfcfb"/>
+<rect x="60" y="452" width="250" height="64" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="185.0" y="480.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">../wt-T13</text>
+<text x="185.0" y="497.2" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.0" font-weight="400" fill="#52514e" text-anchor="middle">rama hipo/T-13</text>
+<path d="M310.0 402.0 L400.0 402.0 L400.0 272.0 L388.0 272.0" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m2a78d6)"/>
+<path d="M310.0 484.0 L400.0 484.0 L400.0 402.0" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="414.0" y="420.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="start">todos los worktrees comparten</text>
+<text x="414.0" y="437.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="start">git-common-dir: una sola memoria</text>
+<text x="414.0" y="454.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="start">aunque cambies de rama</text>
+<rect x="60" y="548" width="530" height="80" rx="10" fill="#fcfcfb"/>
+<rect x="60" y="548" width="530" height="80" rx="10" fill="#2a78d6" fill-opacity="0.09"/>
+<rect x="60" y="548" width="530" height="80" rx="10" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="325.0" y="575.5" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">origin · rama huérfana hipocampo/memory</text>
+<text x="325.0" y="592.7" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">hipo sync hace push y pull del almacén</text>
+<text x="325.0" y="609.7" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">con el mismo remoto del proyecto</text>
+<text x="670.0" y="150.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">~/.hipocampo/</text>
+<text x="670.0" y="171.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">├── projects.json</text>
+<text x="670.0" y="192.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">├── global/        (opcional)</text>
+<text x="670.0" y="213.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">└── projects/</text>
+<rect x="662" y="219" width="330" height="21" rx="4" fill="#e87ba4" fill-opacity="0.14"/>
+<text x="670.0" y="234.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">    └── 9f3e2a…/</text>
+<rect x="662" y="240" width="330" height="21" rx="4" fill="#e87ba4" fill-opacity="0.14"/>
+<text x="670.0" y="255.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">        ├── episodic/  semantic/  …</text>
+<rect x="662" y="261" width="330" height="21" rx="4" fill="#e87ba4" fill-opacity="0.14"/>
+<text x="670.0" y="276.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">        └── index.db</text>
+<text x="1010.0" y="234.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="start">← almacén</text>
+<text x="1010.0" y="171.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="start">← registro</text>
+<text x="670.0" y="340.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">repo-del-cliente/</text>
+<text x="670.0" y="361.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">├── src/</text>
+<text x="670.0" y="382.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="start">└── .git/        (sin cambios)</text>
+<rect x="670" y="420" width="530" height="64" rx="10" fill="#fcfcfb"/>
+<rect x="670" y="420" width="530" height="64" rx="10" fill="#008300" fill-opacity="0.09"/>
+<rect x="670" y="420" width="530" height="64" rx="10" fill="none" stroke="#008300" stroke-width="1.5"/>
+<text x="935.0" y="448.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle">0 archivos de Hipocampo en el repo del cliente.</text>
+<text x="935.0" y="466.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle">Los hooks se instalan a nivel de usuario.</text>
+<rect x="670" y="506" width="530" height="122" rx="10" fill="#fcfcfb"/>
+<rect x="670" y="506" width="530" height="122" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="935.0" y="537.5" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Identidad del proyecto</text>
+<text x="935.0" y="554.7" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.0" font-weight="400" fill="#52514e" text-anchor="middle">id = git rev-list --max-parents=0 HEAD</text>
+<text x="935.0" y="571.7" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">el SHA del primer commit es igual en todos</text>
+<text x="935.0" y="588.7" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">los clones, así que el almacén se reconoce</text>
+<text x="935.0" y="605.7" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">aunque el repo cambie de ruta</text>
+<path d="M812.0 336.0 L1000.0 336.0 L1000.0 258.0 L996.0 258.0" fill="none" stroke="#e87ba4" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#me87ba4)" stroke-dasharray="6 5"/>
+<text x="900.0" y="328.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">id 9f3e2a…</text>
+<text x="40.0" y="690.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">Nada sale de tu máquina salvo que tú hagas hipo sync (modo repo) o configures un remoto (modo home).</text>
+<text x="1220" y="702" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#7a7974" text-anchor="end">Hipocampo · spec v1.0</text>
+</svg>

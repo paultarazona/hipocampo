@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 700" width="1320" height="700" role="img" aria-label="Arquitectura de Hipocampo">
+<title>Arquitectura de Hipocampo</title>
+<desc>Los agentes entran por hooks, CLI o MCP; un único núcleo en Go lee y escribe un almacén local.</desc>
+<defs><marker id="m8a8984" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a8984"/></marker></defs>
+<rect width="1320" height="700" fill="#fcfcfb"/>
+<text x="40" y="48" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0b0b0b">Arquitectura de Hipocampo</text>
+<text x="40" y="74" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#52514e">Los agentes entran por hooks, CLI o MCP; un único núcleo en Go lee y escribe un almacén local.</text>
+<text x="40.0" y="112.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#7a7974" text-anchor="start">AGENTES</text>
+<text x="300.0" y="112.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#7a7974" text-anchor="start">CANALES DE ENTRADA</text>
+<text x="590.0" y="112.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#7a7974" text-anchor="start">NÚCLEO HIPO</text>
+<text x="1040.0" y="112.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#7a7974" text-anchor="start">ALMACENAMIENTO LOCAL</text>
+<rect x="40" y="130" width="200" height="56" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="130" width="200" height="56" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="140.0" y="154.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Claude Code</text>
+<text x="140.0" y="172.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">hooks oficiales</text>
+<rect x="40" y="206" width="200" height="56" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="206" width="200" height="56" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="140.0" y="230.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Codex</text>
+<text x="140.0" y="248.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">hooks oficiales</text>
+<rect x="40" y="300" width="200" height="80" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="300" width="200" height="80" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="140.0" y="327.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Otros agentes</text>
+<text x="140.0" y="345.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">Antigravity, Cursor…</text>
+<text x="140.0" y="362.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">MCP o shell</text>
+<rect x="40" y="470" width="200" height="64" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="470" width="200" height="64" rx="10" fill="#e87ba4" fill-opacity="0.09"/>
+<rect x="40" y="470" width="200" height="64" rx="10" fill="none" stroke="#e87ba4" stroke-width="1.5"/>
+<text x="140.0" y="498.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Tú</text>
+<text x="140.0" y="516.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">navegador</text>
+<rect x="300" y="130" width="230" height="132" rx="10" fill="#fcfcfb"/>
+<rect x="300" y="130" width="230" height="132" rx="10" fill="#6250d6" fill-opacity="0.09"/>
+<rect x="300" y="130" width="230" height="132" rx="10" fill="none" stroke="#6250d6" stroke-width="1.5"/>
+<text x="415.0" y="175.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Hooks</text>
+<text x="415.0" y="193.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">camino principal</text>
+<text x="415.0" y="210.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">6 eventos del ciclo de vida</text>
+<text x="415.0" y="227.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">costo fijo: 0 tokens</text>
+<rect x="300" y="290" width="230" height="44" rx="10" fill="#fcfcfb"/>
+<rect x="300" y="290" width="230" height="44" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="415.0" y="316.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">CLI por shell</text>
+<rect x="300" y="346" width="230" height="44" rx="10" fill="#fcfcfb"/>
+<rect x="300" y="346" width="230" height="44" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="415.0" y="372.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">MCP opcional (3 tools)</text>
+<rect x="300" y="470" width="230" height="64" rx="10" fill="#fcfcfb"/>
+<rect x="300" y="470" width="230" height="64" rx="10" fill="#e87ba4" fill-opacity="0.09"/>
+<rect x="300" y="470" width="230" height="64" rx="10" fill="none" stroke="#e87ba4" stroke-width="1.5"/>
+<text x="415.0" y="498.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">hipo ui</text>
+<text x="415.0" y="516.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">127.0.0.1 + token</text>
+<path d="M240.0 158.0 L300.0 158.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M240.0 234.0 L300.0 234.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M240.0 330.0 L270.0 330.0 L270.0 312.0 L300.0 312.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M240.0 352.0 L270.0 352.0 L270.0 368.0 L300.0 368.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)" stroke-dasharray="6 5"/>
+<path d="M240.0 502.0 L300.0 502.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<rect x="580" y="130" width="400" height="430" rx="14" fill="#f4f3f0"/>
+<rect x="580" y="130" width="400" height="430" rx="14" fill="#6250d6" fill-opacity="0.05"/>
+<rect x="580" y="130" width="400" height="430" rx="14" fill="none" stroke="#6250d6" stroke-width="1"/>
+<text x="600.0" y="160.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Núcleo (un binario Go, sin CGO)</text>
+<text x="600.0" y="180.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="start">hipo / hipo.exe · arranca, responde, termina</text>
+<rect x="600" y="200" width="175" height="72" rx="10" fill="#fcfcfb"/>
+<rect x="600" y="200" width="175" height="72" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="687.5" y="232.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Contrato de eventos</text>
+<text x="687.5" y="249.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">6 eventos internos</text>
+<rect x="785" y="200" width="175" height="72" rx="10" fill="#fcfcfb"/>
+<rect x="785" y="200" width="175" height="72" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="872.5" y="232.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Codificación</text>
+<text x="872.5" y="249.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">sorpresa + saliencia</text>
+<rect x="600" y="286" width="175" height="72" rx="10" fill="#fcfcfb"/>
+<rect x="600" y="286" width="175" height="72" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="687.5" y="318.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Activación</text>
+<text x="687.5" y="335.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">ACT-R híbrida</text>
+<rect x="785" y="286" width="175" height="72" rx="10" fill="#fcfcfb"/>
+<rect x="785" y="286" width="175" height="72" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="872.5" y="318.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Recuperación</text>
+<text x="872.5" y="335.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">L0 · L1 · L2 + know</text>
+<rect x="600" y="372" width="175" height="72" rx="10" fill="#fcfcfb"/>
+<rect x="600" y="372" width="175" height="72" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="687.5" y="404.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Reconsolidación</text>
+<text x="687.5" y="421.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">deriva por hash</text>
+<rect x="785" y="372" width="175" height="72" rx="10" fill="#fcfcfb"/>
+<rect x="785" y="372" width="175" height="72" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="872.5" y="404.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Sueño</text>
+<text x="872.5" y="421.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">9 pasos offline</text>
+<rect x="600" y="458" width="175" height="72" rx="10" fill="#fcfcfb"/>
+<rect x="600" y="458" width="175" height="72" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="687.5" y="490.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Fatiga</text>
+<text x="687.5" y="507.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">semilla de despertar</text>
+<rect x="785" y="458" width="175" height="72" rx="10" fill="#fcfcfb"/>
+<rect x="785" y="458" width="175" height="72" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="872.5" y="490.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Tareas y leases</text>
+<text x="872.5" y="507.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">pizarra multiagente</text>
+<path d="M530.0 196.0 L580.0 196.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M530.0 340.0 L580.0 340.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M530.0 502.0 L580.0 502.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<rect x="1040" y="130" width="240" height="110" rx="10" fill="#fcfcfb"/>
+<rect x="1040" y="130" width="240" height="110" rx="10" fill="#2a78d6" fill-opacity="0.09"/>
+<rect x="1040" y="130" width="240" height="110" rx="10" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="1160.0" y="164.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Almacén .memory/</text>
+<text x="1160.0" y="182.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">Markdown + frontmatter YAML</text>
+<text x="1160.0" y="199.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">repositorio git propio</text>
+<text x="1160.0" y="216.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">fuente de verdad</text>
+<rect x="1040" y="262" width="240" height="90" rx="10" fill="#fcfcfb"/>
+<rect x="1040" y="262" width="240" height="90" rx="10" fill="#1baf7a" fill-opacity="0.09"/>
+<rect x="1040" y="262" width="240" height="90" rx="10" fill="none" stroke="#1baf7a" stroke-width="1.5"/>
+<text x="1160.0" y="294.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">index.db</text>
+<text x="1160.0" y="312.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">SQLite: FTS5 + sqlite-vec</text>
+<text x="1160.0" y="329.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">derivado y regenerable</text>
+<rect x="1040" y="374" width="240" height="90" rx="10" fill="#fcfcfb"/>
+<rect x="1040" y="374" width="240" height="90" rx="10" fill="#eb6834" fill-opacity="0.09"/>
+<rect x="1040" y="374" width="240" height="90" rx="10" fill="none" stroke="#eb6834" stroke-width="1.5"/>
+<text x="1160.0" y="406.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Ollama local</text>
+<text x="1160.0" y="424.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">embeddings + chat</text>
+<text x="1160.0" y="441.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">localhost:11434</text>
+<rect x="1040" y="486" width="240" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="1040" y="486" width="240" height="74" rx="10" fill="#e87ba4" fill-opacity="0.09"/>
+<rect x="1040" y="486" width="240" height="74" rx="10" fill="none" stroke="#e87ba4" stroke-width="1.5"/>
+<text x="1160.0" y="519.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">~/.hipocampo/</text>
+<text x="1160.0" y="537.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">projects.json (registro)</text>
+<path d="M980.0 185.0 L1040.0 185.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)" marker-start="url(#m8a8984)"/>
+<path d="M980.0 307.0 L1040.0 307.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)" marker-start="url(#m8a8984)"/>
+<path d="M980.0 419.0 L1040.0 419.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)" stroke-dasharray="6 5"/>
+<text x="1010.0" y="410.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">solo sueño</text>
+<path d="M980.0 523.0 L1040.0 523.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)" marker-start="url(#m8a8984)"/>
+<rect x="40" y="600" width="1240" height="54" rx="10" fill="#f4f3f0"/>
+<text x="60.0" y="625.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="start">Todo corre en tu máquina.</text>
+<text x="60.0" y="643.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">Sin servidor, sin nube. Si Ollama no responde, el sueño se encola y todo lo demás sigue igual.</text>
+<rect x="760" y="622" width="14" height="14" rx="4" fill="#6250d6" fill-opacity="0.25"/>
+<rect x="760" y="622" width="14" height="14" rx="4" fill="none" stroke="#6250d6" stroke-width="1.5"/>
+<text x="780.0" y="633.5" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">integración</text>
+<rect x="875.96" y="622" width="14" height="14" rx="4" fill="#e87ba4" fill-opacity="0.25"/>
+<rect x="875.96" y="622" width="14" height="14" rx="4" fill="none" stroke="#e87ba4" stroke-width="1.5"/>
+<text x="896.0" y="633.5" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">cliente visual</text>
+<rect x="1011.0" y="622" width="14" height="14" rx="4" fill="#2a78d6" fill-opacity="0.25"/>
+<rect x="1011.0" y="622" width="14" height="14" rx="4" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="1031.0" y="633.5" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">datos</text>
+<text x="1280" y="682" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#7a7974" text-anchor="end">Hipocampo · spec v1.0</text>
+</svg>

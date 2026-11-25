@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="Ciclo de vida de un recuerdo">
+<title>Ciclo de vida de un recuerdo</title>
+<desc>Codificar poco, consolidar offline, recuperar por activación, revalidar al recordar, olvidar archivando.</desc>
+<defs><marker id="m8a8984" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a8984"/></marker><marker id="m1baf7a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1baf7a"/></marker></defs>
+<rect width="1200" height="640" fill="#fcfcfb"/>
+<text x="40" y="48" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0b0b0b">Ciclo de vida de un recuerdo</text>
+<text x="40" y="74" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#52514e">Codificar poco, consolidar offline, recuperar por activación, revalidar al recordar, olvidar archivando.</text>
+<rect x="40" y="120" width="170" height="84" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="120" width="170" height="84" rx="10" fill="#8a8984" fill-opacity="0.09"/>
+<rect x="40" y="120" width="170" height="84" rx="10" fill="none" stroke="#8a8984" stroke-width="1.5"/>
+<text x="125.0" y="149.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Evento</text>
+<text x="125.0" y="167.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">salida de herramienta,</text>
+<text x="125.0" y="184.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">corrección, decisión</text>
+<rect x="260" y="120" width="170" height="84" rx="10" fill="#fcfcfb"/>
+<rect x="260" y="120" width="170" height="84" rx="10" fill="#e34948" fill-opacity="0.09"/>
+<rect x="260" y="120" width="170" height="84" rx="10" fill="none" stroke="#e34948" stroke-width="1.5"/>
+<text x="345.0" y="149.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Codificación</text>
+<text x="345.0" y="167.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">E = ½ sorpresa</text>
+<text x="345.0" y="184.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">+ ½ saliencia</text>
+<rect x="480" y="120" width="170" height="84" rx="10" fill="#fcfcfb"/>
+<rect x="480" y="120" width="170" height="84" rx="10" fill="#2a78d6" fill-opacity="0.09"/>
+<rect x="480" y="120" width="170" height="84" rx="10" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="565.0" y="149.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Episódica</text>
+<text x="565.0" y="167.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">episodio con pistas,</text>
+<text x="565.0" y="184.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">fuente y ancla</text>
+<rect x="700" y="120" width="170" height="84" rx="10" fill="#fcfcfb"/>
+<rect x="700" y="120" width="170" height="84" rx="10" fill="#6250d6" fill-opacity="0.09"/>
+<rect x="700" y="120" width="170" height="84" rx="10" fill="none" stroke="#6250d6" stroke-width="1.5"/>
+<text x="785.0" y="149.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Sueño</text>
+<text x="785.0" y="167.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">replay + abstracción</text>
+<text x="785.0" y="184.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">cada 3 sesiones o 24 h</text>
+<rect x="960" y="104" width="170" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="960" y="104" width="170" height="74" rx="10" fill="#1baf7a" fill-opacity="0.09"/>
+<rect x="960" y="104" width="170" height="74" rx="10" fill="none" stroke="#1baf7a" stroke-width="1.5"/>
+<text x="1045.0" y="137.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Semántica</text>
+<text x="1045.0" y="155.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">reglas y decisiones</text>
+<rect x="960" y="206" width="170" height="74" rx="10" fill="#fcfcfb"/>
+<rect x="960" y="206" width="170" height="74" rx="10" fill="#eb6834" fill-opacity="0.09"/>
+<rect x="960" y="206" width="170" height="74" rx="10" fill="none" stroke="#eb6834" stroke-width="1.5"/>
+<text x="1045.0" y="239.4" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Procedural</text>
+<text x="1045.0" y="257.1" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">procedimientos, scripts</text>
+<path d="M210.0 162.0 L260.0 162.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M430.0 162.0 L480.0 162.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="455.0" y="152.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">E ≥ 0.4</text>
+<path d="M650.0 162.0 L700.0 162.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M870.0 150.0 L915.0 150.0 L915.0 141.0 L960.0 141.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="915.0" y="128.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">3+ episodios</text>
+<path d="M870.0 176.0 L915.0 176.0 L915.0 243.0 L960.0 243.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="926.0" y="268.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="start" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">3+ éxitos</text>
+<rect x="260" y="250" width="170" height="50" rx="10" fill="#fcfcfb"/>
+<rect x="260" y="250" width="170" height="50" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="345.0" y="280.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">E &lt; 0.4 → se descarta</text>
+<path d="M345.0 204.0 L345.0 250.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<rect x="690" y="250" width="196" height="64" rx="10" fill="#fcfcfb"/>
+<rect x="690" y="250" width="196" height="64" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="788.0" y="278.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">Archivo</text>
+<text x="788.0" y="295.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">A &lt; −1.0 y 60 días sin uso</text>
+<path d="M785.0 204.0 L785.0 250.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="796.0" y="232.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="start" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">poda</text>
+<rect x="960" y="400" width="170" height="84" rx="10" fill="#fcfcfb"/>
+<rect x="960" y="400" width="170" height="84" rx="10" fill="#6250d6" fill-opacity="0.09"/>
+<rect x="960" y="400" width="170" height="84" rx="10" fill="none" stroke="#6250d6" stroke-width="1.5"/>
+<text x="1045.0" y="429.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Recuperación</text>
+<text x="1045.0" y="447.3" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">A ≥ 1.2 se inyecta</text>
+<text x="1045.0" y="464.3" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle">A ≥ 0.5 va al índice L1</text>
+<rect x="720" y="400" width="170" height="84" rx="10" fill="#fcfcfb"/>
+<rect x="720" y="400" width="170" height="84" rx="10" fill="#6250d6" fill-opacity="0.09"/>
+<rect x="720" y="400" width="170" height="84" rx="10" fill="none" stroke="#6250d6" stroke-width="1.5"/>
+<text x="805.0" y="429.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Memoria de trabajo</text>
+<text x="805.0" y="446.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">presupuesto de tokens</text>
+<text x="805.0" y="463.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">por capa</text>
+<rect x="480" y="400" width="170" height="84" rx="10" fill="#fcfcfb"/>
+<rect x="480" y="400" width="170" height="84" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="565.0" y="429.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Agente usa</text>
+<text x="565.0" y="447.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">advertencia, regla</text>
+<text x="565.0" y="464.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">o procedimiento</text>
+<rect x="260" y="400" width="170" height="84" rx="10" fill="#fcfcfb"/>
+<rect x="260" y="400" width="170" height="84" rx="10" fill="#e34948" fill-opacity="0.09"/>
+<rect x="260" y="400" width="170" height="84" rx="10" fill="none" stroke="#e34948" stroke-width="1.5"/>
+<text x="345.0" y="429.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Reconsolidación</text>
+<text x="345.0" y="446.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">compara con el</text>
+<text x="345.0" y="463.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">código actual</text>
+<rect x="40" y="400" width="170" height="84" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="400" width="170" height="84" rx="10" fill="#1baf7a" fill-opacity="0.09"/>
+<rect x="40" y="400" width="170" height="84" rx="10" fill="none" stroke="#1baf7a" stroke-width="1.5"/>
+<text x="125.0" y="429.9" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">Resultado</text>
+<text x="125.0" y="447.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">fortalece, actualiza</text>
+<text x="125.0" y="464.6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle">o marca dudoso</text>
+<path d="M1045.0 280.0 L1045.0 400.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M1130.0 141.0 L1160.0 141.0 L1160.0 442.0 L1130.0 442.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M960.0 442.0 L890.0 442.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M720.0 442.0 L650.0 442.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M480.0 442.0 L430.0 442.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M260.0 442.0 L210.0 442.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M125.0 400.0 L125.0 350.0 L520.0 350.0 L520.0 204.0" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m1baf7a)" stroke-dasharray="6 5"/>
+<text x="320.0" y="342.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">actualiza el recuerdo</text>
+<text x="960.0" y="504.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="400" fill="#7a7974" text-anchor="start">también recupera episodios</text>
+<rect x="40" y="540" width="1120" height="56" rx="10" fill="#f4f3f0"/>
+<text x="60.0" y="564.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="start">Base:</text>
+<text x="104.0" y="564.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">especificidad de codificación (Tulving) · sistemas complementarios (McClelland et al., 1995) ·</text>
+<text x="104.0" y="582.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">reconsolidación (Nader et al., 2000) · homeostasis sináptica (Tononi y Cirelli, 2014) · ACT-R</text>
+<text x="1160" y="622" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#7a7974" text-anchor="end">Hipocampo · spec v1.0</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 600" width="1260" height="600" role="img" aria-label="Estados de una tarea">
+<title>Estados de una tarea</title>
+<desc>Cómo pasa una tarea entre agentes: leases que vencen, handoffs y bloqueos por conflicto.</desc>
+<defs><marker id="m8a8984" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a8984"/></marker><marker id="m6250d6" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#6250d6"/></marker><marker id="m008300" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#008300"/></marker></defs>
+<rect width="1260" height="600" fill="#fcfcfb"/>
+<text x="40" y="48" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0b0b0b">Estados de una tarea</text>
+<text x="40" y="74" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#52514e">Cómo pasa una tarea entre agentes: leases que vencen, handoffs y bloqueos por conflicto.</text>
+<rect x="120" y="250" width="180" height="60" rx="30.0" fill="#fcfcfb"/>
+<rect x="120" y="250" width="180" height="60" rx="30.0" fill="#8a8984" fill-opacity="0.13"/>
+<rect x="120" y="250" width="180" height="60" rx="30.0" fill="none" stroke="#8a8984" stroke-width="2"/>
+<text x="210.0" y="277.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">pending</text>
+<text x="210.0" y="294.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">esperando dependencias</text>
+<rect x="420" y="250" width="180" height="60" rx="30.0" fill="#fcfcfb"/>
+<rect x="420" y="250" width="180" height="60" rx="30.0" fill="#2a78d6" fill-opacity="0.13"/>
+<rect x="420" y="250" width="180" height="60" rx="30.0" fill="none" stroke="#2a78d6" stroke-width="2"/>
+<text x="510.0" y="277.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">ready</text>
+<text x="510.0" y="294.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">cualquiera la puede tomar</text>
+<rect x="720" y="250" width="180" height="60" rx="30.0" fill="#fcfcfb"/>
+<rect x="720" y="250" width="180" height="60" rx="30.0" fill="#6250d6" fill-opacity="0.13"/>
+<rect x="720" y="250" width="180" height="60" rx="30.0" fill="none" stroke="#6250d6" stroke-width="2"/>
+<text x="810.0" y="277.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">claimed</text>
+<text x="810.0" y="294.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">un agente con lease</text>
+<rect x="1020" y="250" width="180" height="60" rx="30.0" fill="#fcfcfb"/>
+<rect x="1020" y="250" width="180" height="60" rx="30.0" fill="#008300" fill-opacity="0.13"/>
+<rect x="1020" y="250" width="180" height="60" rx="30.0" fill="none" stroke="#008300" stroke-width="2"/>
+<text x="1110.0" y="277.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">done</text>
+<text x="1110.0" y="294.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">terminada</text>
+<rect x="720" y="450" width="180" height="60" rx="30.0" fill="#fcfcfb"/>
+<rect x="720" y="450" width="180" height="60" rx="30.0" fill="#eda100" fill-opacity="0.13"/>
+<rect x="720" y="450" width="180" height="60" rx="30.0" fill="none" stroke="#eda100" stroke-width="2"/>
+<text x="810.0" y="477.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="middle">blocked</text>
+<text x="810.0" y="494.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle">conflicto de decisión</text>
+<circle cx="60" cy="280" r="10" fill="#0b0b0b"/>
+<path d="M70.0 280.0 L120.0 280.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<path d="M300.0 280.0 L420.0 280.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="360.0" y="262.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">dependencias</text>
+<text x="360.0" y="300.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle">en done</text>
+<path d="M600.0 280.0 L720.0 280.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="660.0" y="270.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">task claim</text>
+<path d="M900.0 280.0 L1020.0 280.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="960.0" y="270.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">task done</text>
+<path d="M780.0 250.0 L780.0 214.0 L850.0 214.0 L850.0 250.0" fill="none" stroke="#6250d6" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m6250d6)"/>
+<text x="815.0" y="206.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">checkpoint renueva el lease</text>
+<path d="M770.0 310.0 L770.0 370.0 L520.0 370.0 L520.0 310.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="645.0" y="362.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">handoff · lease vencido</text>
+<path d="M850.0 310.0 L850.0 450.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="862.0" y="390.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="start" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">decisiones en conflicto</text>
+<path d="M720.0 480.0 L460.0 480.0 L460.0 310.0" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m8a8984)"/>
+<text x="590.0" y="472.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">un humano resuelve</text>
+<path d="M1110.0 250.0 L1110.0 160.0 L210.0 160.0 L210.0 250.0" fill="none" stroke="#008300" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#m008300)" stroke-dasharray="6 5"/>
+<text x="660.0" y="152.0" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="500" fill="#52514e" text-anchor="middle" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round" paint-order="stroke">desbloquea a las que dependían de ella</text>
+<rect x="40" y="530" width="1180" height="46" rx="10" fill="#fcfcfb"/>
+<rect x="40" y="530" width="1180" height="46" rx="10" fill="none" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="630.0" y="558.2" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle">El lease dura 30 min; cada checkpoint lo renueva. Al vencer, la tarea vuelve a ready con su último checkpoint, y otro agente sigue desde ahí.</text>
+<text x="1220" y="582" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#7a7974" text-anchor="end">Hipocampo · spec v1.0</text>
+</svg>

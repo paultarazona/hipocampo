@@ -1,0 +1,30 @@
+historia,titulo,prioridad,epica,hito,vista,panel,diagramas,seccion_spec,rnf,estados_especiales,pruebas,flujos
+H-01,Abrir la TUI en el proyecto actual,Must,E1,T1,Todas,—,01;12,Almacenamiento;Implementación,RNF-01,EE-11;EE-19;EE-36,P-02;P-04;P-14,F-01
+H-02,Cambiar de vista con el teclado,Must,E1,T1,Global,Pestañas,—,—,RNF-05;RNF-18,—,P-02;P-12,F-01;F-03
+H-03,Ver ayuda contextual,Must,E1,T1,Global,Modal Ayuda,—,—,RNF-18,—,P-12,—
+H-04,Buscar en la memoria,Should,E1,T4,Memoria,Búsqueda,06,Modelos locales,RNF-05,EE-03;EE-15,P-01;P-04,F-10
+H-05,Ver el estado global en la cabecera,Must,E1,T1,Global,Cabecera,01,Modelos locales;Consideraciones adicionales,RNF-10;RNF-16,EE-15;EE-16;EE-18,P-03;P-13,F-01;F-11
+H-06,Ver todos mis proyectos,Must,E2,T1,Resumen,Proyectos,12,Almacenamiento,RNF-24,EE-01;EE-19;EE-20,P-01;P-03,F-01
+H-07,Cambiar de proyecto,Must,E2,T1,Global,Selector de proyecto,12,Almacenamiento,RNF-02,EE-19;EE-20,P-04;P-14,F-09
+H-08,Ver la salud del proyecto,Should,E2,T4,Resumen,Sistemas,02;07,Consideraciones adicionales,RNF-16,EE-18,P-01;P-03,—
+H-09,Ver recuerdos ordenados por activación,Must,E3,T1;T2,Resumen;Memoria,Recuerdos,03;09,Fórmula de activación;Recuperación,RNF-03;RNF-25,EE-02;EE-03;EE-12;EE-22,P-01;P-03;P-05;P-14,F-01
+H-10,Filtrar recuerdos,Must,E3,T2,Memoria,Filtros,06;07,Esquema de un recuerdo,RNF-05,EE-03,P-02;P-04,F-10
+H-11,Ver el detalle de un recuerdo,Must,E3,T1;T2,Resumen;Memoria,Detalle,06;08;09,Esquema;Reconsolidación;Fórmula de activación,RNF-22;RNF-25,EE-13;EE-22;EE-25,P-01;P-03;P-05;P-19,F-02
+H-12,Ver lo que se inyectó en una sesión,Must,E3,T2,Resumen,Contexto,04;10,Recuperación;Interfaz,RNF-25,EE-04,P-01;P-03;P-06,F-02
+H-13,Marcar un recuerdo como dudoso,Should,E3,T3,Memoria,Detalle,07,Reconsolidación,RNF-14;RNF-15,EE-26;EE-27,P-08,F-06
+H-14,Olvidar un recuerdo,Should,E3,T3,Memoria,Detalle,07,Consideraciones adicionales,RNF-14;RNF-15,EE-26;EE-27;EE-30,P-08,F-07
+H-15,Editar un recuerdo,Could,E3,Post-MVP,Memoria,Detalle,06,Esquema de un recuerdo,RNF-14;RNF-15,EE-26;EE-29,P-08,—
+H-16,Explorar el vecindario de un recuerdo,Must,E4,T3,Red,Red,06;08,Esquema (links),RNF-05,EE-09,P-03;P-04;P-09,F-03
+H-17,Filtrar y agrupar la red,Should,E4,T4,Red,Leyenda y filtros,06,Cliente visual,RNF-05,EE-09,P-02;P-03,—
+H-18,Ver los agentes activos,Must,E5,T2,Resumen;Tareas,Agentes,10;11,Fatiga y ciclo de sesión;Coordinación multiagente,RNF-04,EE-04,P-01;P-03;P-15,F-01
+H-19,Ver las tareas y sus dependencias,Must,E5,T2,Resumen;Tareas,Tareas,11;13,Coordinación multiagente,RNF-04,EE-05,P-01;P-03,F-08
+H-20,Ver la pizarra de eventos en vivo,Must,E5,T2,Resumen;Tareas,Pizarra,11,Coordinación multiagente,RNF-04;RNF-11,EE-06;EE-21,P-02;P-15,F-01
+H-21,Liberar un lease vencido,Should,E5,T3,Tareas,Tareas,13,Coordinación multiagente,RNF-14;RNF-15,EE-27;EE-28,P-08,F-08
+H-22,Recibir aviso de fatiga alta,Should,E5,T4,Global,Avisos,10,Fatiga y ciclo de sesión,RNF-19,—,P-02;P-04,—
+H-23,Ver los ciclos de sueño,Must,E6,T3,Resumen;Sueño,Ciclos;Sueño,05,Proceso de sueño,RNF-25,EE-07;EE-14;EE-15,P-01;P-03,F-04
+H-24,Revisar las reglas propuestas,Must,E6,T3,Sueño,Regla propuesta,05;07;08,Proceso de sueño;Consideraciones adicionales,RNF-14;RNF-15,EE-08;EE-26,P-04;P-08,F-04;F-05
+H-25,Lanzar un ciclo de sueño manual,Could,E6,Post-MVP,Sueño,Modal Simulación,05,Proceso de sueño,RNF-05,EE-14;EE-15,P-04,—
+H-26,Ver si la memoria funciona,Should,E7,T4,Métricas,Tarjetas;Por agente,09;10,Evaluación,RNF-25,EE-10,P-01;P-03;P-07,—
+H-27,Exportar métricas,Could,E7,Post-MVP,Métricas,—,—,Evaluación,—,EE-30,P-07,—
+H-28,Usar la TUI sin Ollama,Must,E8,T1,Todas,Cabecera;Sueño,01;05,Modelos locales,RNF-21,EE-15;EE-16,P-13;P-18,F-11
+H-29,Usar la TUI en terminales pequeñas o sin color,Must,E8,T1;T4,Todas,—,—,—,RNF-09;RNF-10;RNF-16;RNF-17,EE-31;EE-32;EE-33;EE-34;EE-35,P-10;P-11;P-17,F-12
